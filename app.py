@@ -72,14 +72,17 @@ def upload_file():
             img = np.reshape(img, [1, 224, 224, 3])
 
             classes = model.predict_classes(img)
+            category = "Others"
             if (classes[0] == 0):
-                return (filename + ": Glass")
+                category = "Glass"
             elif (classes[0] == 1):
-                return (filename + ": Bottle")
-            else:
-                return (filename + ": Spark Plug")
-    #
-    return 'AFS'
+                category = "Bottle"
+   #
+    return {
+        "fileName": filename,
+        "objectCategory": category,
+        "source": "deloitte-image-analytics"
+    }
 
 if __name__ == '__main__':
     from os import sys, path

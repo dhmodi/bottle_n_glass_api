@@ -7,9 +7,8 @@ install_aliases()
 
 
 import os
-from flask import Flask, request, redirect, url_for, flash, session, render_template
+from flask import Flask, request, redirect, url_for, flash, session, render_template, jsonify
 from flask_session import Session
-import jsonify
 from werkzeug.utils import secure_filename
 from keras.models import load_model
 from keras.utils import plot_model

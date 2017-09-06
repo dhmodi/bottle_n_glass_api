@@ -70,8 +70,8 @@ def upload_file():
 
             #   print (file)
             img = cv2.imread(UPLOAD_FOLDER + "/" + filename)
-            img = cv2.resize(img, (224, 224))
-            img = np.reshape(img, [1, 224, 224, 3])
+            img = cv2.resize(img, (500, 500))
+            img = np.reshape(img, [1, 500, 500, 3])
 
             classes = model.predict_classes(img)
 

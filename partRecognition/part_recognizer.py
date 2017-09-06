@@ -37,8 +37,8 @@ predictTrue = 0
 for file in os.listdir(args["directory"]):
     #   print (file)
     img = cv2.imread(args["directory"] + "/" + file)
-    img = cv2.resize(img,(224,224))
-    img = np.reshape(img,[1,224,224,3])
+    img = cv2.resize(img,(500,500))
+    img = np.reshape(img,[1,500,500,3])
 
     classes = model.predict_classes(img)
     type = file.split("_")[-2]

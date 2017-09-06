@@ -77,7 +77,7 @@ def upload_file():
 
             if (classes[0] == 0):
                 category = "Glass"
-                return (filename + ": " + category)
+                return jsonify("category")
             elif (classes[0] == 1):
                 category = "Bottle"
                 return (filename + ": " + category)

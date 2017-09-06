@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -99,6 +99,7 @@
         <option value="$USER_HOME$/PycharmProjects/sgws_classification/app.yaml" />
         <option value="$USER_HOME$/PycharmProjects/sgws_classification/requirements.txt" />
         <option value="$USER_HOME$/PycharmProjects/sgws_classification/Procfile" />
+        <option value="$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html" />
       </list>
     </option>
   </component>
@@ -524,14 +525,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -570,6 +563,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding />
         </state>
       </provider>

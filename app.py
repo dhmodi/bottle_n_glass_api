@@ -77,12 +77,10 @@ def upload_file():
 
             if (classes[0] == 0):
                 category = "Glass"
-                return jsonify(filename=category)
             elif (classes[0] == 1):
                 category = "Bottle"
-                return jsonify(filename=category)
    #
-    return 'AFS'
+    return jsonify(fileName=filename, category=category)
 
 if __name__ == '__main__':
     from os import sys, path

@@ -17,7 +17,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--directory", required=True,
-	help="path to the input image")
+                                                   help="path to the input image")
 args = vars(ap.parse_args())
 
 model = load_model('model/model.h5')

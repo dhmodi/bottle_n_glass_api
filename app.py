@@ -9,6 +9,7 @@ install_aliases()
 import os
 from flask import Flask, request, redirect, url_for, flash, session, render_template
 from flask_session import Session
+import jsonify
 from werkzeug.utils import secure_filename
 from keras.models import load_model
 from keras.utils import plot_model
@@ -77,10 +78,10 @@ def upload_file():
 
             if (classes[0] == 0):
                 category = "Glass"
-                return jsonify("category")
+                return jsonify(filename,category)
             elif (classes[0] == 1):
                 category = "Bottle"
-                return (filename + ": " + category)
+                return jsonify(filename,category)
    #
     return ({
         "fileName": filename,

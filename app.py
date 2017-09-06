@@ -40,6 +40,8 @@ def image():
 
 @app.route('/image', methods=['GET', 'POST'])
 def upload_file():
+    category = "Others"
+    filename = ""
     if request.method == 'POST':
         # check if the post request has the file part
         if 'file' not in request.files:
@@ -72,7 +74,7 @@ def upload_file():
             img = np.reshape(img, [1, 224, 224, 3])
 
             classes = model.predict_classes(img)
-            category = "Others"
+
             if (classes[0] == 0):
                 category = "Glass"
             elif (classes[0] == 1):

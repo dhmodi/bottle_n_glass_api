@@ -190,23 +190,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.part_recognizer_train">
-    <configuration default="false" name="image_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/swgs_classification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swgs_classification" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/swgs_classification/image_generator.py" />
-      <option name="PARAMETERS" value="-i glass" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="part_recognizer_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,46 +197,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/swgs_classification/partRecognition" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="sgws_classification" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer_train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="part_recognizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/swgs_classification/partRecognition" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swgs_classification" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/swgs_classification/partRecognition/part_recognizer.py" />
-      <option name="PARAMETERS" value="-i evaluate_labeling" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/swgs_classification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swgs_classification" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/swgs_classification/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -392,18 +341,12 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.image_generator" />
-      <item index="1" class="java.lang.String" itemvalue="Python.part_recognizer_train" />
-      <item index="2" class="java.lang.String" itemvalue="Python.part_recognizer" />
-      <item index="3" class="java.lang.String" itemvalue="Python.app" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.part_recognizer_train" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Python.part_recognizer_train" />
-        <item index="1" class="java.lang.String" itemvalue="Python.app" />
-        <item index="2" class="java.lang.String" itemvalue="Python.part_recognizer" />
-        <item index="3" class="java.lang.String" itemvalue="Python.image_generator" />
       </list>
     </recent_temporary>
   </component>

@@ -77,14 +77,24 @@ def upload_file():
 
             if (classes[0] == 0):
                 category = "Glass"
+                return ({
+                    "fileName": filename,
+                    "objectCategory": category,
+                    "source": "deloitte-image-analytics"
+                })
             elif (classes[0] == 1):
                 category = "Bottle"
+                return ({
+                    "fileName": filename,
+                    "objectCategory": category,
+                    "source": "deloitte-image-analytics"
+                })
    #
-    return {
+    return ({
         "fileName": filename,
         "objectCategory": category,
         "source": "deloitte-image-analytics"
-    }
+    })
 
 if __name__ == '__main__':
     from os import sys, path

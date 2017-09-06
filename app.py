@@ -77,18 +77,10 @@ def upload_file():
 
             if (classes[0] == 0):
                 category = "Glass"
-                return ({
-                    "fileName": filename,
-                    "objectCategory": category,
-                    "source": "deloitte-image-analytics"
-                })
+                return (filename + ": " + category)
             elif (classes[0] == 1):
                 category = "Bottle"
-                return ({
-                    "fileName": filename,
-                    "objectCategory": category,
-                    "source": "deloitte-image-analytics"
-                })
+                return (filename + ": " + category)
    #
     return ({
         "fileName": filename,

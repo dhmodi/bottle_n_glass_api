@@ -38,21 +38,25 @@ def image():
     return render_template('index.html', page_title='My Page!')
 
 
-@app.route('/image', methods=['GET', 'POST'])
-def upload_file():
+@app.route('/image', methods=['GET','POST','PUT'])
+def detect_file():
+    print("Inside Upload")
     category = "Others"
     filename = ""
     if request.method == 'POST':
         # check if the post request has the file part
+        print(len(request.files))
         if 'file' not in request.files:
-            flash('No file part')
+            print('No file part')
             return redirect(request.url)
         file = request.files['file']
+        print(file)
         # if user does not select file, browser also
         # submit a empty part without filename
         if file.filename == '':
-            flash('No selected file')
+            print('No selected file')
             return redirect(request.url)
+        print(file.filename)
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
@@ -80,6 +84,53 @@ def upload_file():
             elif (classes[0] == 1):
                 category = "Bottle"
    #
+    return jsonify(fileName=filename, category=category)
+
+@app.route('/htmlimage', methods=['POST'])
+def upload_file():
+    print("Inside Upload")
+    category = "Others"
+    filename = ""
+    if request.method == 'POST':
+        # check if the post request has the file part
+        if 'file' not in request.files:
+            print('No file part')
+            return redirect(request.url)
+        file = request.files['file']
+        print(file)
+        # if user does not select file, browser also
+        # submit a empty part without filename
+        if file.filename == '':
+            print('No selected file')
+            return redirect(request.url)
+        print(file.filename)
+        if file and allowed_file(file.filename):
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+            # return redirect(url_for('upload_file',
+            #                         filename=filename))
+            model = load_model('partRecognition/model/model.h5')
+            #
+            # model.compile(loss='binary_crossentropy',
+            #               optimizer='rmsprop',
+            #               metrics=['accuracy'])
+
+            model.compile(loss='binary_crossentropy',
+                          optimizer='rmsprop',
+                          metrics=['accuracy'])
+
+            #   print (file)
+            img = cv2.imread(UPLOAD_FOLDER + "/" + filename)
+            img = cv2.resize(img, (500, 500))
+            img = np.reshape(img, [1, 500, 500, 3])
+
+            classes = model.predict_classes(img)
+
+            if (classes[0] == 0):
+                category = "Glass"
+            elif (classes[0] == 1):
+                category = "Bottle"
+                #
     return jsonify(fileName=filename, category=category)
 
 if __name__ == '__main__':

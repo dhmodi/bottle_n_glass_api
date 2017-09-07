@@ -1,7 +1,664 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baa52536-c982-4d3f-bbbd-50c9a36c5bc3" name="Default" comment="" />
+    <list default="true" id="baa52536-c982-4d3f-bbbd-50c9a36c5bc3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/008366486975.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/10a50-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/247070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/4020d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/4043d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/4bffd28252e0838b1f346dfd1e527fbf--liquid-gold-bourbon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/500_f_129291138_n5ffwzx9uegy3xqlawhsgebgbsketob7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/51fn8ecfqel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/51u-oa0liel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/7031c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/9651b99b5a5e07676586326b1e2de717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/bowmore-moonlight-ceramic-bottle-25-years-single-malt-whisky-islay-scotland-10471816.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/f800110a.6777.4671.8bf9.8acbcc8b603f.hr_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/glenfiddich-50yr-old-product-extra-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/jack-daniels-bottle-3d-model-max-obj-3ds-fbx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/mars-shinshu-distillery-japanese-whisky-the-lucky-cat_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/reddog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bottles/scotch-cinema.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/10252777.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/10256920.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/2608.012.12_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/3040bulk_act1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/41acr4fiozl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/61glgwfau3l.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/8549_act1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/9293-w_elegant-vintage-rose-toasting-flutes726eff701e399058e47287b707a8eaa4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/9703446-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/gwb00008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/pasabahce-hurricane-beer-glass-1227-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glass/types-of-alcohol-drinking-glasses.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1003.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1005.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1015.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1096.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1101.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1110.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1129.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1149.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1168.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_117.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1212.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1213.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1271.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_130.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1432.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1467.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1469.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1524.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1537.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1583.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_160.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1608.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1634.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1720.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1755.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1785.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_18.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_187.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2020.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2029.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2105.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2154.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2201.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2236.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2264.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2282.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2297.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2324.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2328.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2362.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_24.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2401.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2405.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2420.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2450.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2459.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2461.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2462.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2483.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2490.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2496.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2515.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_252.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2593.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2594.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2596.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2597.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2631.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2643.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2664.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2685.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2795.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2879.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2881.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2915.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3085.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3104.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3118.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3145.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_317.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3174.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3201.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3204.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3222.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3242.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_33.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3301.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3339.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3348.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3350.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3356.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3380.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3403.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3448.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3454.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3468.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3505.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3530.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3534.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3563.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3590.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3594.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3599.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3639.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_368.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3700.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3745.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3755.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3759.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3795.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3807.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3833.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3858.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3860.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3879.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3882.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3887.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_389.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3895.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3905.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3922.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3948.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3974.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3975.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4055.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4057.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4062.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4081.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4085.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4117.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4119.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4144.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4159.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4192.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4238.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4261.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4333.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4353.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4384.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4405.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4447.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4448.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4451.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4494.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4503.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4510.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_452.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4576.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4637.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_466.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_47.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4722.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4744.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4749.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4763.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4779.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4782.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4788.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4821.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4887.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4919.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4938.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4963.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4985.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5036.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5060.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5098.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_510.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5193.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5236.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5259.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5297.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5304.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5310.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5358.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5427.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5478.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5544.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5571.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5581.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5642.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5656.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5665.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5666.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5704.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5727.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5731.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5741.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5748.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5773.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5868.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5977.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_598.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6057.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6094.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6134.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6157.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6160.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6173.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6175.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_621.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6231.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6241.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6246.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_627.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6306.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6352.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6370.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6379.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6395.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6405.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6513.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6557.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6591.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6635.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6638.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6644.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6655.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6659.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6734.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6741.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6760.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6767.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6795.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6843.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6948.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_695.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7012.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7022.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7029.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7105.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7123.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7129.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7140.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_715.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_718.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7207.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_724.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7241.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7276.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7313.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7322.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7333.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7339.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7342.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7422.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7456.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7487.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7509.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7510.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7516.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7522.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7594.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7626.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7667.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7699.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7745.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7829.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7830.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7832.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7856.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7926.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7927.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7940.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_799.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_800.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8047.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8077.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8095.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8178.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8202.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8247.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8265.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8354.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8366.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8372.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8384.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8412.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8468.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8469.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8496.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_851.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8526.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8596.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8599.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8813.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8816.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8818.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8825.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8845.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8855.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8878.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8901.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8906.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8914.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8930.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8965.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9063.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9096.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9109.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9140.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9204.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9275.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9279.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9290.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9348.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9369.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9442.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9445.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9492.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9538.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9570.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9621.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9634.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9679.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9686.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_971.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9715.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9811.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9872.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_990.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9923.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9995.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1067.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1121.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1183.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1291.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1341.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1400.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1408.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1475.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1563.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1600.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1639.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1690.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1692.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1720.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1768.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1790.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1846.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1897.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2003.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2009.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2038.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2064.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2100.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2199.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2204.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2252.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2317.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2429.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2567.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2586.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2671.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2710.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2766.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2877.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2933.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2961.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3001.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3088.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3197.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3211.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3250.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3290.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3296.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3319.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3401.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3432.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3440.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3464.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3481.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3512.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3544.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_357.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3590.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3632.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3636.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3680.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3700.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3775.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3848.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3858.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3865.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3949.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4032.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4045.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4051.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4110.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4148.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4197.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4219.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4226.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4238.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4355.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4359.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4387.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4463.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4468.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4532.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4563.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4732.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4736.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4769.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4892.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4966.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4980.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5042.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5043.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5055.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5112.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5122.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5141.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5174.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5201.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5202.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5214.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5234.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5258.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5284.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5363.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5443.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5471.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5477.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5499.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5550.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5553.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5635.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5672.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5720.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5740.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5756.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5771.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5853.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5871.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5906.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5928.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5988.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5995.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_603.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6039.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6162.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_62.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6256.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_627.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6337.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_640.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6408.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6417.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_65.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6517.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6523.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6525.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6533.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_657.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6605.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_661.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6618.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6651.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6685.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6693.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6712.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6889.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_691.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6912.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6969.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7009.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7108.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_724.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7274.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7315.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7412.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7419.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7485.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7487.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7495.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_753.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7586.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7602.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_761.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_765.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7658.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7716.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_773.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7731.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7772.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7811.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7816.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7918.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7921.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7961.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8025.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8026.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8137.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8174.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8185.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8246.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8258.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8342.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8355.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8382.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_841.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8473.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8503.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8639.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8680.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8686.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8704.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8716.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8783.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8844.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8861.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8884.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8897.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8906.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8978.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8979.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9049.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9091.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9134.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9191.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9250.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9266.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9280.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9334.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9379.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9488.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9495.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_96.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9616.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9622.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9653.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9716.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9729.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9773.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9784.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9789.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9794.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9853.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9865.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9889.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9910.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9924.jpeg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flask_session/49b777ecf7e8150988d9ec7c898e45fa" afterPath="$PROJECT_DIR$/flask_session/49b777ecf7e8150988d9ec7c898e45fa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1187.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1187.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1197.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1197.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1268.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1268.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1482.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1482.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1488.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1488.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1496.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1496.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1828.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_1828.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2310.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2310.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2388.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2388.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2498.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2498.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2543.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2543.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2617.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2617.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2698.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2698.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2725.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2725.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2785.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2785.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2857.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_2857.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3142.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3142.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3267.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3267.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3659.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3659.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3722.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3722.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3728.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3728.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3778.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_3778.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4010.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4010.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4245.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4245.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4515.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4515.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4610.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4610.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4937.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4937.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4984.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_4984.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5018.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5018.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5805.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_5805.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_632.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_632.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6390.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6390.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_647.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_647.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6529.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6529.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6651.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6651.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6694.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6694.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_68.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_68.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6871.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_6871.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7127.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7127.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7542.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7542.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7640.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7640.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_767.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_767.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7790.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_7790.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8014.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8014.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8560.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8560.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8783.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8783.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8840.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_8840.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_919.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_919.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9565.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9565.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9766.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9766.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9900.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/bottles/bottles_0_9900.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1167.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1167.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_142.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_142.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1730.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1730.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1860.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1860.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1945.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_1945.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2298.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2298.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2512.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2512.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2637.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_2637.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3317.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3317.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3650.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_3650.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_394.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_394.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_395.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_395.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4959.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_4959.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_531.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_531.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5591.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5591.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5597.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5597.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5815.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_5815.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6968.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_6968.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7334.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7334.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7335.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_7335.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8237.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8237.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8497.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8497.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8621.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8621.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_864.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_864.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8786.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_8786.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9098.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9098.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9249.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9249.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9881.jpeg" afterPath="$PROJECT_DIR$/partRecognition/train_labeling/glass/glass_0_9881.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partRecognition/part_recognizer_train.py" afterPath="$PROJECT_DIR$/partRecognition/part_recognizer_train.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +671,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/app.py">
+        <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+            <state relative-caret-position="88">
+              <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
               <folding>
                 <element signature="e#23#60#0" expanded="true" />
               </folding>
@@ -28,37 +685,47 @@
         </entry>
       </file>
       <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/Procfile">
+        <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="part_recognizer_train.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer_train.py">
+        <entry file="file://$PROJECT_DIR$/partRecognition/part_recognizer_train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="103" column="72" lean-forward="false" selection-start-line="103" selection-start-column="72" selection-end-line="103" selection-end-column="72" />
+            <state relative-caret-position="176">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_generator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/app.yaml">
+        <entry file="file://$PROJECT_DIR$/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
@@ -68,7 +735,7 @@
         </entry>
       </file>
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
@@ -86,29 +753,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/PycharmProjects/swgs_classification/image_generator.py" />
-        <option value="$USER_HOME$/PycharmProjects/swgs_classification/partRecognition/part_recognizer.py" />
-        <option value="$USER_HOME$/PycharmProjects/swgs_classification/html/index.html" />
-        <option value="$USER_HOME$/PycharmProjects/swgs_classification/app.py" />
-        <option value="$USER_HOME$/PycharmProjects/swgs_classification/templates/index.html" />
-        <option value="$USER_HOME$/PycharmProjects/swgs_classification/partRecognition/part_recognizer_train.py" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer_train.py" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/app.yaml" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/Procfile" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/requirements.txt" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer.py" />
-        <option value="$USER_HOME$/PycharmProjects/sgws_classification/app.py" />
+        <option value="$PROJECT_DIR$/../swgs_classification/image_generator.py" />
+        <option value="$PROJECT_DIR$/../swgs_classification/partRecognition/part_recognizer.py" />
+        <option value="$PROJECT_DIR$/../swgs_classification/html/index.html" />
+        <option value="$PROJECT_DIR$/../swgs_classification/app.py" />
+        <option value="$PROJECT_DIR$/../swgs_classification/templates/index.html" />
+        <option value="$PROJECT_DIR$/../swgs_classification/partRecognition/part_recognizer_train.py" />
+        <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/partRecognition/part_recognizer.py" />
+        <option value="$PROJECT_DIR$/partRecognition/part_recognizer_train.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1846" />
+    <option name="width" value="1848" />
     <option name="height" value="1098" />
   </component>
   <component name="ProjectView">
@@ -126,8 +796,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -140,13 +810,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swgs_classification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sgws_classification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partRecognition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swgs_classification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sgws_classification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partRecognition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="train_labeling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/virtual_patient_assistant" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../virtual_patient_assistant" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -162,7 +864,7 @@
       <recent name="C:\Users\dhmodi\PycharmProjects\swgs_classification" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.part_recognizer">
+  <component name="RunManager" selected="Python.app">
     <configuration default="false" name="part_recognizer_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +872,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/partRecognition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="sgws_classification" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer_train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/partRecognition/part_recognizer_train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -187,13 +889,47 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/partRecognition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="sgws_classification" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/partRecognition/part_recognizer.py" />
       <option name="PARAMETERS" value="-i evaluate_labeling" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="image_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sgws_classification" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_generator.py" />
+      <option name="PARAMETERS" value="-i glass" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sgws_classification" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
@@ -331,14 +1067,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.part_recognizer_train" />
       <item index="1" class="java.lang.String" itemvalue="Python.part_recognizer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.image_generator" />
+      <item index="3" class="java.lang.String" itemvalue="Python.app" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.part_recognizer" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
         <item index="1" class="java.lang.String" itemvalue="Python.part_recognizer_train" />
+        <item index="2" class="java.lang.String" itemvalue="Python.image_generator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.part_recognizer" />
       </list>
     </recent_temporary>
   </component>
@@ -356,25 +1096,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1846" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1848" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25054705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25027323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5130073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -386,73 +1126,49 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/keras/preprocessing/image.py">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14511">
-          <caret line="382" column="8" lean-forward="false" selection-start-line="382" selection-start-column="8" selection-end-line="382" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/image_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#94#0" expanded="false" />
+            <element signature="e#23#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/keras/engine/training.py">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7058">
-          <caret line="1238" column="0" lean-forward="false" selection-start-line="1238" selection-start-column="0" selection-end-line="1238" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/glass_0_96.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/glass_0_142.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/partRecognition/part_recognizer_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/glass_0_357.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/image_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/glass_0_395.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/glass_0_394.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/bottles_0_647.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/bottles_0_632.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/evaluate_labeling/bottles_0_715.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/app.yaml">
+    <entry file="file://$PROJECT_DIR$/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
@@ -460,23 +1176,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
@@ -484,34 +1184,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer_train.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/keras/preprocessing/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="103" column="72" lean-forward="false" selection-start-line="103" selection-start-column="72" selection-end-line="103" selection-end-column="72" />
+        <state relative-caret-position="-14511">
+          <caret line="382" column="8" lean-forward="false" selection-start-line="382" selection-start-column="8" selection-end-line="382" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7058">
+          <caret line="1238" column="0" lean-forward="false" selection-start-line="1238" selection-start-column="0" selection-end-line="1238" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/glass_0_96.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/glass_0_142.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/glass_0_357.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/glass_0_395.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/glass_0_394.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/bottles_0_647.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/bottles_0_632.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/evaluate_labeling/bottles_0_715.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/model/model.h5">
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/model/model.h5">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/partRecognition/part_recognizer.py">
+    <entry file="file://$PROJECT_DIR$/partRecognition/part_recognizer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partRecognition/part_recognizer_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/sgws_classification/app.py">
+    <entry file="file://$PROJECT_DIR$/image_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+        <state relative-caret-position="638">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
           <folding>
             <element signature="e#23#60#0" expanded="true" />
           </folding>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PycharmProjects/sgws_classification/.idea/swgs_classification.iml" filepath="$USER_HOME$/PycharmProjects/sgws_classification/.idea/swgs_classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sgws_classification.iml" filepath="$PROJECT_DIR$/.idea/sgws_classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swgs_classification.iml" filepath="$PROJECT_DIR$/.idea/swgs_classification.iml" />
     </modules>
   </component>
 </project>

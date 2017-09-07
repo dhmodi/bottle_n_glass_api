@@ -7,11 +7,11 @@ import gc
 gc.collect()
 
 model = Sequential()
-model.add(Convolution2D(32, (3, 3), input_shape=(500, 500, 3)))
+model.add(Convolution2D(128, (3, 3), input_shape=(500, 500, 3)))
 model.add(Activation('relu'))
 model.add(MaxPooling2D(pool_size=(2, 2),dim_ordering="th"))
 
-model.add(Convolution2D(32, (3, 3), dim_ordering="th"))
+model.add(Convolution2D(64, (3, 3), dim_ordering="th"))
 model.add(Activation('relu'))
 model.add(MaxPooling2D(pool_size=(2, 2),dim_ordering="th"))
 
@@ -81,7 +81,7 @@ model.compile(loss='binary_crossentropy',
               metrics=['accuracy'])
 
 
-batch_size = 16
+batch_size = 32
 
 # this is the augmentation configuration we will use for training
 train_datagen = ImageDataGenerator(

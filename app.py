@@ -80,9 +80,9 @@ def detect_file():
             classes = model.predict_classes(img)
 
             if (classes[0] == 0):
-                category = "Glass"
-            elif (classes[0] == 1):
                 category = "Bottle"
+            elif (classes[0] == 1):
+                category = "Glass"
    #
     return jsonify(fileName=filename, category=category)
 

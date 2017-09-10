@@ -45,10 +45,10 @@ for file in os.listdir(args["directory"]):
     predicted = ""
     countImage += 1
     print (classes)
-    if (classes[0] == 0):
+    if (classes[0] == 1):
         print (file + ": Glass")
         predicted = "Glass"
-    elif (classes[0] == 1):
+    elif (classes[0] == 0):
         print(file + ": Bottle")
         predicted = "Bottle"
     else:
